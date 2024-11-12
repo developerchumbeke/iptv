@@ -23,5 +23,5 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="Moviefe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="",Moviefe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="",Movi
+https://streamtp1.com/global1.php?stream=espn1
