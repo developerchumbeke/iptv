@@ -23,7 +23,7 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Outdoor",Movi
-https://update8915.pricesaskeloadsc.com/espn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Outdoor",Mo
+https://streamtp1.com/global1.php?stream=espn1
 #EXTINF:-1,[ES] EUROSPORT1 HEVC
 http://a3.lion.wine:80/live/aw4P6974/cVYg4768/612228.m3u8
